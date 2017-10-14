@@ -1,3 +1,3 @@
 # README
 
-by [JJ] ("http//:google.com")
+[JJ]("http//:google.com")
